@@ -8,8 +8,8 @@ static Scanner var=new Scanner(System.in);
 	double balance=0;
 	boolean isRuning=true;
 		System.out.println("1.Show Balance");
-		System.out.println("2.Deposite Amount");
-		System.out.println("3.WithDraw Amount");
+		System.out.println("2.Deposite the Amount");
+		System.out.println("3.WithDraw the Amount");
 		System.out.println("4.Exit");
 		System.out.println("1.Show Balance");
 		while(isRuning){
